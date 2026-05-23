@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="qwave.vcxproj" />
+  <Project Path="qwave.vcxproj" Id="0b065a57-529a-4c5b-b419-a760681e2475" />
 </Solution>
